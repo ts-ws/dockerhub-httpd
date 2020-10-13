@@ -1,6 +1,8 @@
 #ManualUpdateTimestamp:20201012113000
 #AutomaticUpdateTimestamp:20201012113000
 
+MAINTAINER Technik Service Whitesheep <support@ts-ws.de>
+
 FROM debian:latest
 
 RUN apt-get update && \
