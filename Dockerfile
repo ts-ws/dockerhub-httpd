@@ -18,5 +18,5 @@ EXPOSE 80
 
 CMD ["/usr/sbin/apache2ctl","-DFOREGROUND"]
 
-#AutomaticUpdateTimestamp:20201203000513
+#AutomaticUpdateTimestamp:20201204000512
 #ManualUpdateTimestamp:20201012113000
